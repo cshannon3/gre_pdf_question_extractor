@@ -1,0 +1,369 @@
+{
+    "questions": [{
+        "questionNumber": 1,
+        "questionText": "The passage suggests that the proliferation of ragwort was particularly ill-timedbecause it",
+        "difficulty": "Easy",
+        "answerOptions": ["coincided with and exacerbated a dec  in agriculture", "took place in conditions that enabled the ragwort to spread faster than it otherwise would have done", "led to an increase in the amount of toxic compounds contained in the plants", "prevented people from producing honey that could be eaten safely", "had consequences for livestock that were more dramatic than they otherwise would have been"],
+        "correctAnswer": 4,
+        "explanationText": "The passage mentions that ragwort's impact on New Zealand's agriculture wasespecially severe because the plant's proliferation \"coincided with sweeping changesin agriculture that saw a massive shift from sheep farming to dairying.\" The severity ofthe impact was increased because cattle, which were displacing sheep, are much moresensitive than sheep to the toxins contained in ragwort. This points to Choice E as the correct answer choice. Nothing in the passage suggests that the proliferation of ragwortcoincided with a dec  in agriculture (Choice A), occurred faster than it might havedone (Choice B), or made the plants more toxic (Choice C). There is a suggestion thatragwort honey might not be safe for humans, but there is no indication that this madethe timing of the proliferation particularly unfortunate.35For the following question, consider each of the choices separately and selectall that apply.",
+        "page_num": 36
+    }, {
+        "questionNumber": 2,
+        "questionText": "The passage implies which of the following about the problems ragwort poses todairy farmers?",
+        "difficulty": "Easy",
+        "answerOptions": ["Milk produced by cows that eat ragwort causes illness in humans who", "drink it. B Ragwort can supplant the plants normally eaten by cattle.", "attle, unlike sheep, are unable to differentiate between ragwort and healthy grazing."],
+        "correctAnswer": 1,
+        "explanationText": "Choice B is correct. The question asks about the problems ragwort poses to dairyfarmers.Choice A is incorrect: The passage does not mention the effect of ragwortconsumption on the milk produced by cows.Choice B is correct: The passage mentions that livestock will eat ragwort \"once itdisplaces grass and clover in their pasture.\"Choice C is incorrect: The passage claims that \"livestock generally avoid grazingwhere ragwort is growing,\" but does not make a distinction between cattle and sheep.",
+        "page_num": 36
+    }, {
+        "questionNumber": 3,
+        "questionText": "Which of the following, if true, helps explain the apparent paradox in thestatement above?",
+        "difficulty": "Easy",
+        "answerOptions": ["significantly larger number of people eat in restaurants than attend", "catered banquets in any given time period. B Catering establishments know how many people they expect to serve, and therefore are less likely than restaurants to have, and serve, leftover food, a major source of food poisoning.", "Many restaurants provide catering services for banquets in addition to serving individual meals.", "The number of reported food-poisoning cases at catered banquets is unrelated to whether the meal is served on the caterer's or the client's premises.", "People are unlikely to make a connection between a meal they have eaten and a subsequent illness unless the illness strikes a group who are in communication with one another."],
+        "correctAnswer": 4,
+        "explanationText": "The question calls for an explanation of why more cases of reported food poisoningmight be attributed to catering services than to restaurants. Choices A and B bothprovide reasons why restaurants should account for more cases, so they are incorrect.Choice C would suggest that there would be negligible differences between thelikelihood of food poisoning at restaurants and at catered events, so it also sheds nolight on the paradox and is therefore incorrect. Since the argument does not pertain tothe location of catered banquets, Choice D is incorrect. That leaves Choice E. Peoplewho attend banquets are more likely than restaurant patrons to be part of a group thatcommunicates with one another, so Choice E would help explain the higher number ofreported food poisonings and is the correct answer.",
+        "page_num": 36
+    }, {
+        "questionNumber": 4,
+        "questionText": "The passage suggests that if advertisers had more frequently purchased advertisingin African American newspapers, then which of the following might haveresulted?",
+        "difficulty": "Easy",
+        "answerOptions": ["frican American newspapers would have given more attention to sports", "and society news than they did. B African American newspapers would have been available at lower prices than large national dailies were.", "African American newspapers would have experienced constraints on their content similar to those experienced by large national dailies."],
+        "correctAnswer": 2,
+        "explanationText": "Choice C is correct. The question asks about the consequences of more advertising inAfrican American newspapers.Choice A is incorrect: The passage states that publishers of African Americannewspapers felt compelled to publish sports and society news even without any pressurefrom advertisers, so advertising revenue was not a factor in their editorial decisions.Choice B is incorrect: The passage says that lack of advertising revenue madeAfrican American newspapers more expensive than the large national dailies, implyingthat if advertisers had purchased space, the difference in price would have beensmaller; but nothing in the passage supports the claim that African Americannewspapers would have been cheaper than the large national dailies.Choice C is correct: The passage states that large newspapers could not readilyprint politically charged material because they \"depended on advertisers' ideologicalapproval to secure revenues,\" so it can be expected that African American newspaperswould have experienced similar constraints if they also had depended on advertisersfor revenues.",
+        "page_num": 37
+    }, {
+        "questionNumber": 5,
+        "questionText": "The author of the passage suggests which of the following about the \"advertisers\"(  3) mentioned in the passage?",
+        "difficulty": "Easy",
+        "answerOptions": ["They assumed that advertising in African American newspapers would not", "significantly increase the sales of their products. B They failed to calculate accurately the circulation of African American newspapers.", "They did not take African Americans' newspaper reading into account when making decisions about where to advertise.", "They avoided African American newspapers partly because of their sensationalism.", "They tried to persuade African American newspapers to lower the rates charged for advertising."],
+        "correctAnswer": 0,
+        "explanationText": "The second sentence of the passage states that \"knowing that buyers of AfricanAmerican newspapers also bought general-circulation papers, advertisers of consumerproducts often ignored African American publications.\" This suggests that advertisersbelieved that the majority of the people who read African American newspapers wouldsee the advertisements when they read general-circulation papers, and that the numberof people who read only African American newspapers was too small to justify buyingadvertising space there. Therefore Choice A is correct.",
+        "page_num": 38
+    }, {
+        "questionNumber": 6,
+        "questionText": "If the statements in the passage are true, then which of the following must on thebasis of them be true?",
+        "difficulty": "Easy",
+        "answerOptions": ["There was a steady dec  in the yearly revenues generated by the energy", "tax in Frieland. B There was a steady dec  in the total amount of energy consumed each year in Frieland.", "There was a steady increase in the use of renewable energy sources in Frieland.", "The revenues generated by the energy tax were used to promote the use of energy from renewable sources.", "The use of renewable energy sources in Frieland greatly increased relative to the use of nonrenewable energy sources."],
+        "correctAnswer": 0,
+        "explanationText": "Since the energy tax is based upon the number of units of nonrenewable energyconsumed, and since the number of units of nonrenewable energy dec d, revenuesgenerated by the energy tax must have dec d as well. Choice A is therefore the correct answer. The passage gives no information on changes in the total amount of energy consumed, changes in the amount of energy from renewable sources that wasused, or what revenues raised by the tax were used for, so all the other choices are incorrect.",
+        "page_num": 39
+    }, {
+        "questionNumber": 7,
+        "questionText": "It can be inferred from the passage that which of the following is true of thesurface waters in the current Antarctic environment?",
+        "difficulty": "Easy",
+        "answerOptions": ["They are more affected by annual fluctuations in atmospheric temperatures", "than they would be if they were less salty. B They are less salty than they would be if global warming were to occur.", "They are more likely to sink and stir up deep waters than they would be if atmospheric temperatures were to increase.", "They are able to offset some of the effects of global warming beyond the Antarctic region.", "They are less affected by the temperature of deep water than they would be if atmospheric temperatures were to increase."],
+        "correctAnswer": 2,
+        "explanationText": "Choice C is correct. The passage states that rising temperatures would decrease theamount of sea ice formed in the winter, and that this change would result in surfacewater that is less salty, and thus less likely to sink. The current situation, then, results inthe opposite: surface waters that are more likely to sink. Choices A and D are incorrectbecause the passage gives no information about how fluctuating temperatures wouldaffect less salty water or about the relationship between the Antarctic region and therest of the planet. Choices B and E are incorrect because they are both the opposite ofwhat the passage implies about surface waters in the current environment.",
+        "page_num": 40
+    }, {
+        "questionNumber": 8,
+        "questionText": "The passage suggests that Martinson believes which of the following about deepwaters in the Antarctic region?",
+        "difficulty": "Easy",
+        "answerOptions": ["They rise to the surface more quickly than they would if global warming", "were to occur. B They store heat that will exacerbate the effects of increases in atmospheric temperatures.", "They would be likely to be significantly warmed by an increase in atmospheric temperatures.", "They would be more salty than they currently are if global warming were to occur.", "They are less likely to be stirred up when surface waters are intensely salty than when surface waters are relatively unsalty."],
+        "correctAnswer": 0,
+        "explanationText": "Choice A is correct. The passage states that, in Martinson's scenario, the deep waterwould rise to the surface at a slower rate were warming to occur. He must believe,then, that the water currently rises to the surface more quickly. As for Choice B, whilethe passage indeed states that deep waters in Antarctica store heat, it also suggests thatthis heat would be less likely to reach the surface and worsen global warming. Choice Bis therefore incorrect. Choice E is incorrect because it contradicts information given inthe passage. Choices C and D are incorrect because, while the passage discusses theeffects of global warming on the temperature and salinity of surface water, it gives noinformation of warming's effects on the temperature and salinity of deep water.",
+        "page_num": 41
+    }, {
+        "questionNumber": 9,
+        "questionText": "According to the passage, which of the following is true about the sea ice thatsurrounds the Antarctic continent?",
+        "difficulty": "Easy",
+        "answerOptions": ["The amount of sea ice that forms in the winter has been declining.", "Most of the sea ice that forms in the winter remains intact in the summer.", "Even small changes in the amount of sea ice dramatically affect the temperature of the surface waters.", "Changes in the amount of sea ice due to global warming would significantly affect the stability of the Antarctic environment.", "Changes in the amount of sea ice affect the degree of saltiness of the surface waters."],
+        "correctAnswer": 4,
+        "explanationText": "Choice E is correct: according to the passage, \"less sea ice would mean a smallerincrease in the concentration of salt.\" Choices B, C, and D are incorrect because theyare all contrary to the information presented in the passage. Choice A is incorrectbecause the passage does not compare current amounts of sea ice with past quantities;it instead proposes a hypothetical scenario involving a possible future dec  of sea iceformation.For each of Questions 1 to 11, select one answer choice unless otherwise directed.",
+        "page_num": 41
+    }, {
+        "questionNumber": 1,
+        "questionText": "Which of the following, if true, most strengthens the argument?",
+        "difficulty": "Medium",
+        "answerOptions": ["On particularly cloudy days, more artificial light is used to illuminate the", "part of the store under the skylight. B When the store is open at night, the departments in the part of the store under the skylight have sales that are no higher than those of other departments.", "Many customers purchase items from departments in both parts of the store on a single shopping trip.", "Besides the skylight, there are several significant architectural differences between the two parts of the store.", "The departments in the part of the store under the skylight are the departments that generally have the highest sales in other stores in the Savefast chain."],
+        "correctAnswer": 2,
+        "explanationText": "The passage compares sales of items in the sunlit part of the store with sales of itemsin the artificially lit part of the store and concludes that since the former are greaterthan the latter, the presence of sunlight increases sales. The assumption underlying thisargument is that the only significant difference between the two parts of the store is thepresence of sunlight--otherwise, the inherent popularity of goods sold in differentlocations, or some other factor, might account for the increased sales. Choice B helpsrule out the possibility that other factors might be involved, by showing that sales areno greater when the sunlight is taken out of the equation. Therefore it is the correct answer. Choices D and E both suggest that factors besides sunlight might explain thediscrepancy between sales; therefore they weaken rather than strengthen theargument, and so are incorrect. Neither Choice A nor Choice C point to differencesbetween the two areas of the store; therefore they are both incorrect as well.",
+        "page_num": 42
+    }, {
+        "questionNumber": 2,
+        "questionText": "The passage is primarily concerned with discussing the",
+        "difficulty": "Medium",
+        "answerOptions": ["unsuitability of the Roman classics for the teaching of morality", "approach that sixteenth-century scholars took to learning the Roman classics", "effect that the Roman classics had on educated people in the Renaissance", "way in which the Roman classics were taught in the sixteenth century", "contrast between the teaching of the Roman classics in the Renaissance and the teaching of the Roman classics today"],
+        "correctAnswer": 3,
+        "explanationText": "The passage focuses primarily on the way Roman classics were taught during theRenaissance, so Choice D is the correct answer. The approach that sixteenth-centuryscholars took is mentioned, but it serves only to introduce and contrast with thepedagogical methods used in schools; therefore Choice B is incorrect. The passagementions a supposed incompatibility between Roman classics and the teaching ofmorality as motivating Renaissance teaching methods, but that incompatibility is notthe passage's main topic; thus Choice A is incorrect. Choices C and E are alsoincorrect, since the passage does not discuss the effect of Roman classics on educatedRenaissance people or the teaching of Roman classics today.",
+        "page_num": 43
+    }, {
+        "questionNumber": 3,
+        "questionText": "The information in the passage suggests that which of the following would mostlikely result from a student's having studied the Roman classics under a typicalsixteenth-century teacher?",
+        "difficulty": "Medium",
+        "answerOptions": ["The student recalls a   of Roman poetry in conjunction with a point", "learned about grammar. B The student argues that a Roman poem about gluttony is not morally offensive when it is understood in its historical context.", "The student is easily able to express thoughts in Latin.", "The student has mastered large portions of the Roman classics.", "The student has a sophisticated knowledge of Roman poetry but little knowledge of Roman prose."],
+        "correctAnswer": 0,
+        "explanationText": "Choice A is correct. The passage specifically mentions syntax as one of the subjectsthat the pieces of text served to illustrate; therefore it is logical that students wouldassociate the text with the grammar point it was used to teach. Choices B and D areincorrect because the passage implies that students were not given the context or toolsto place Roman classics in context, or to read and master large portions of works.Choices C and E are also incorrect, since the passage makes no mention of Latincomposition being taught, or of any differences in the ways in which Roman poetryand prose were treated in schools.",
+        "page_num": 44
+    }, {
+        "questionNumber": 4,
+        "questionText": "Which of the following, if true, would most seriously weaken the assertion madein the passage concerning what a modern reader cannot know?",
+        "difficulty": "Medium",
+        "answerOptions": ["Some modern readers are thoroughly familiar with the classics of ancient", "Roman literature because they majored in classics in college or obtained doctoral degrees in classics. B Some modern readers have learned which particular works of Roman literature were taught to students in the sixteenth century.", "Modern readers can, with some effort, discover that sixteenth-century teachers selected some seemingly dangerous classical texts while excluding other seemingly innocuous texts.", "Copies of many of the classical texts used by sixteenth-century teachers, including marginal notes describing the oral lessons that were based on the texts, can be found in museums today.", "Many of the writings of the best sixteenth-century Renaissance scholars have been translated from Latin and are available to modern readers."],
+        "correctAnswer": 3,
+        "explanationText": "The passage asserts that modern readers cannot know the associations Roman poetryhad for Renaissance readers, because those associations arose from the specific waysRoman texts were presented in schools. This assertion assumes that there is no way formodern readers to know how such texts were taught during the Renaissance. Choice D shows a way that scholars can recover this pedagogical context and is therefore the correct choice. Since the passage's assertion does not depend on modern readers'familiarity with the classics, with their knowledge of which works were taught inschools, with the inclusion or exclusion by sixteenth-century teachers of specific texts,or with the accessibility of the works of Renaissance scholars, all the other choices areincorrect.",
+        "page_num": 44
+    }, {
+        "questionNumber": 5,
+        "questionText": "In explaining the \"new role\" (  7) that goose bumps in humans may haveacquired, the author assumes which of the following?",
+        "difficulty": "Medium",
+        "answerOptions": ["Emotional responses in humans can be triggered by thermoregulatory", "mechanisms. B The perceptibility of emotional responses to other humans offers some kind of benefit.", "If human hair were more substantial, goose bumps would not have acquired a new role.", "Goose bumps in animals with feathers, fur, or quills may also be linked to emotional responses.", "In humans, goose bumps represent an older physiological response than flushing."],
+        "correctAnswer": 1,
+        "explanationText": "The passage addresses the question of why the pilomotor reflex has survived in humanbeings despite the fact that its original functions--to insulate and to appear larger topredators--are no longer useful. The suggested reason is that the reflex \"has acquired anew role,\" namely, as a means to signal to others that one is experiencing a strongemotion. This assumes that the ability to send such a signal is useful to human beings;therefore Choice B is correct.",
+        "page_num": 45
+    }, {
+        "questionNumber": 6,
+        "questionText": "Which of the following best describes the primary function of the next-to-lastsentence (\"Like . . . music\")?",
+        "difficulty": "Medium",
+        "answerOptions": ["It makes a distinction between two types of mechanisms.", "It corrects a common misconception about the role of goose bumps in humans.", "It suggests reasons for the connection between emotional responses and goose bumps in humans.", "It suggests that flushing and goose bumps signal the same emotional state.", "It helps explain a possible role played by goose bumps in humans."],
+        "correctAnswer": 4,
+        "explanationText": "The next-to-last sentence says that goose bumps in humans now serve as an outwardsign of strong emotion. If so, this would explain how they could have taken on anotherrole, so Choice E is correct. The sentence does not make a distinction (Choice A),correct a misconception (Choice B), suggest any reason for the connection betweenemotion and goose bumps (Choice C), or suggest that flushing and goose bumps sig-nal the same state (Choice D).",
+        "page_num": 45
+    }, {
+        "questionNumber": 7,
+        "questionText": "The passage as a whole can best be described as doing which of the following?",
+        "difficulty": "Medium",
+        "answerOptions": ["Explaining Douglass' emergence as a major figure in the movement to", "abolish slavery B Tracing the origins of Douglass' thought in nineteenth-century romanticism, idealism, and liberal humanism", "Analyzing Douglass' speeches and writings from a modern, pluralist perspective", "Criticizing Martin for failing to stress the contradiction between Douglass' principles and the liberal Victorian attitudes of his day", "Formulating a response to those who consider Douglass' political philosophy to be archaic and irrelevant"],
+        "correctAnswer": 4,
+        "explanationText": "The passage discusses the views and intellectual legacy of Frederick Douglass. The keyclaim in the first paragraph is that while some of Douglass' views are no longer widelyaccepted, \"there is a central aspect of Douglass' thought that seems not the least bitdated or irrelevant to our current concerns\" ( s 13\ufffd14). The second paragraphcritiques a study of Douglass' career by Waldo Martin and claims that Martin has failedto offer a \"convincing rebuttal to those critics who dismiss Douglass' ideology as a relicof the past\" ( s 30\ufffd31). This indicates that Choice E is correct.",
+        "page_num": 47
+    }, {
+        "questionNumber": 8,
+        "questionText": "It can be inferred that the \"present-day intellectuals\" (  12) believe that",
+        "difficulty": "Medium",
+        "answerOptions": ["although Douglass used democratic-capitalist ideas to attack slavery and", "racial inequality, he did not sincerely believe in those ideas B the view that Douglass was representative of the intellectual trends of his time is obsolete", "Douglass' opposition to the doctrine of innate racial inequality is irrelevant to current concerns", "ouglass' commitment to Black equality does not adequately account for his na\ufffdve attachment to quaint liberal Victorian political views", "Douglass' goal of ultimately doing away with all racial and ethnic differences is neither achievable nor desirable"],
+        "correctAnswer": 4,
+        "explanationText": "\"Present-day intellectuals\" are mentioned on   12; the claim there is that theseintellectuals consider Douglass' vision of America as \"a melting pot in which all racialand ethnic differences would dissolve\" ( s 10\ufffd11) as \"utopian\" and \"wrongheaded\"( s 12\ufffd13). This points to Choice E as correct.",
+        "page_num": 47
+    }, {
+        "questionNumber": 9,
+        "questionText": "According to the passage, Douglass used which of the following as evidenceagainst the doctrine of innate racial inequality?",
+        "difficulty": "Medium",
+        "answerOptions": ["His own life story", "His vision of a composite American nationality", "The hypocrisy of self-professed liberal idealists", "The inevitability of the emancipation of African Americans", "The fact that most prominent intellectuals advocated the abolition of slavery"],
+        "correctAnswer": 0,
+        "explanationText": "One of the claims in the passage is that Frederick Douglass \"offered his entire careerand all his achievements as living proof that racists were wrong in their belief that onerace could be inherently superior to another\" ( s 17\ufffd18). Thus Choice A is correct.",
+        "page_num": 48
+    }, {
+        "questionNumber": 10,
+        "questionText": "Each of the following is mentioned in the passage as an element of Douglass'ideology EXCEPT",
+        "difficulty": "Medium",
+        "answerOptions": ["idealism", "egalitarianism", "capitalism", "pluralism", "humanism"],
+        "correctAnswer": 3,
+        "explanationText": "The passage claims that Douglass \"exemplified . . . idealism, . . . liberal humanism\"( s 6\ufffd7); it implies that Douglass espoused \"antiracist egalitarianism\" (  19) andstates that \"Douglass was attracted to . . . democratic-capitalist ideals of his time\"(  22). This rules out Choices A, B, C, and E and leaves Choice D as correct. Indeed,the mention of \"Douglass' vision of the future as a melting pot in which all racial andethnic differences would dissolve\" ( s 10\ufffd11) shows that Douglass was not a plural-ist, i.e. was not someone who aimed at preserving and celebrating ethnic and culturaldifferences.",
+        "page_num": 48
+    }, {
+        "questionNumber": 11,
+        "questionText": "Which of the following, if true, would be additional evidence to suggest thathummingbirds are attracted to the red flowers and hawkmoths to the whiteflowers of the scarlet gilia?",
+        "difficulty": "Medium",
+        "answerOptions": ["Uncovered scarlet gilia flowers, whether red or white, became pollinated at", "approximately equal rates. B Some red flowers of the scarlet gilia that remained uncovered at all times never became pollinated.", "White flowers of the scarlet gilia that were covered at night became pollinated with greater frequency than white flowers of the scarlet gilia that were left uncovered.", "Scarlet gilia plants with red flowers covered by day and scarlet gilia plants with white flowers covered at night remained unpollinated.", "In late August, when most of the hummingbirds had migrated but hawkmoths were still plentiful, red scarlet gilia plants produced fruit more frequently than they had earlier in the season."],
+        "correctAnswer": 3,
+        "explanationText": "The results reported in the last sentence of the passage suggest that hummingbirds dopollinate red-flowered plants and that hawkmoths do pollinate white-flowered plants.But to prove that they are attracted preferentially to those colors requires knowingwhether they also pollinate flowers of the other color that are uncovered during theirrespective foraging hours--white flowers uncovered during hummingbirds' daytimehours, and red flowers uncovered during hawkmoths' nocturnal hours. Choice D states that such plants remain unpollinated, so it is the correct answer. Of the otheroptions, both Choices C and E could suggest the opposite of what is required, so theyare incorrect. Choice A is incorrect because the comparative frequency at whichuncovered gilia flowers are pollinated has no bearing on the argument. Likewise, thepresence of some quantity of unpollinated flowers of either color does not affect theargument, so Choice B is also incorrect.For each of Questions 1 to 10, select one answer choice unless otherwise directed.",
+        "page_num": 49
+    }, {
+        "questionNumber": 1,
+        "questionText": "It can be inferred that the author of the passage would agree with which of thefollowing about the origin of UHECRs that reach Earth?",
+        "difficulty": "Hard",
+        "answerOptions": ["The origin is something other than supernovas in the Milky Way.", "The origin is most likely something other than very distant quasars or gamma-ray bursts.", "The origin is most likely no more than a little over 100 million light-years away from Earth."],
+        "correctAnswer": [0,1,2],
+        "explanationText": "All three choices are correct. The question asks about claims the author would agree with.Choice A is correct: The passage states that supernovas in the Milky Way \"cannotproduce ultrahigh-energy cosmic rays.\"Choice B is correct: Since very distant quasars and gamma-ray bursts are \"billionsof light-years away from Earth,\" they are too far away for a UHECR to reach Earth.Choice C is correct: The last sentence of the passage states that \"no cosmic ray travelingmuch beyond 100 million light-years can retain the energy observed in UHECRs.\"",
+        "page_num": 50
+    }, {
+        "questionNumber": 2,
+        "questionText": "In the context of the author's argument, the last sentence performs which of thefollowing functions?",
+        "difficulty": "Hard",
+        "answerOptions": ["It explains a criterion that was employed earlier in the argument.", "It shows that an apparently plausible position is actually self-contradictory.", "It is a conclusion drawn in the course of refuting a potential explanation.", "It overturns an assumption on which an opposing position depends.", "It states the main conclusion that the author is seeking to establish."],
+        "correctAnswer": 2,
+        "explanationText": "The last sentence is the conclusion of an argument in the last half of the passage; it putsa constraint on the possible origin of UHECRs relative to Earth and thereby rules outthe possibility, mentioned earlier in the passage, that distant quasars and gamma-raybursts could be the origin of UHECRs. Therefore Choice C is correct. It is important tonote that the last sentence does not show any plausible position to be self-contradictory(Choice B), and that it does not state the author's main conclusion (Choice E), since it isrelevant to only one of the two hypotheses considered in the passage.",
+        "page_num": 50
+    }, {
+        "questionNumber": 3,
+        "questionText": "Which of the following statements about women cyclists is supported by the passage?",
+        "difficulty": "Hard",
+        "answerOptions": ["The newly improved bicycle of the mid-1890s appealed mostly to women", "in a privileged position. B The great majority of women in the mid-1890s considered cycling an idle pastime.", "Women bicyclists promoted cycling as a healthy form of outdoor exercise."],
+        "correctAnswer": 2,
+        "explanationText": "Choice C is correct. The question asks which of three statements about women cyclistsare supported by the passage.Choice A is incorrect: The second sentence of the passage states that the newbicycle appealed to a few privileged women right away, but then implies that it quickly\"attracted a greater cross section of the female population.\"Choice B is incorrect: The third sentence of the passage explicitly states that manywomen \"had not taken up [bicycling] as an idle pastime.\"Choice C is correct: The penultimate sentence of the passage implies that womenbicyclists thought that cycling would \"encourage healthy outdoor exercise.\"For the following question, consider each of the choices separately and select allthat apply.",
+        "page_num": 51
+    }, {
+        "questionNumber": 4,
+        "questionText": "Which of the following does the passage suggest about pioneer women cyclists?",
+        "difficulty": "Hard",
+        "answerOptions": ["They saw cycling as a means to promote the advancement of women.", "They argued that cycling would encourage women to get involved in a variety of noble causes.", "They provided several reasons for a cross section of the female population to use the bicycle."],
+        "correctAnswer": [0, 2],
+        "explanationText": "Choices A and C are correct. The question asks what the passage suggests aboutpioneer women cyclists.Choice A is correct: The passage states that pioneer women cyclists saw cycling \"asa means to improve the general female condition\" and believed that it \"affirmed noth-ing less than the dignity and equality of women.\"Choice B is incorrect: The passage states that bicycle pioneers saw cycling itself as anoble cause but does not mention any other noble causes to which cycling would lead.Choice C is correct. The passage mentions that pioneer women cyclists saw at leasttwo independent reasons for all women to use bicycles: they believed that cyclingwould \"encourage healthy outdoor exercise\" as well as \"hasten long-overdue dressreform.\"",
+        "page_num": 52
+    }, {
+        "questionNumber": 5,
+        "questionText": "Which of the following best describes the function of the second sentence(\"Although . . . population\")?",
+        "difficulty": "Hard",
+        "answerOptions": ["It corrects a common misconception regarding the use of the bicycle in the", "mid-1890s. B It elaborates on a claim made in the previous sentence regarding a social consequence of the cycling boom.", "It provides a context in which to understand the increased popularity of bicycle riding among privileged women.", "It explains why cycling attracted such a significant cross section of women.", "It describes the demographic characteristics of the consumer market for bicycles in the mid-1890s."],
+        "correctAnswer": 1,
+        "explanationText": "The second sentence implies that the bicycle appealed at first only to \"a few privilegedwomen\" but then \"attracted a greater cross section of the female population,\" thusinforming the reader that \"the massive influx of women cyclists\" mentioned in theprevious sentence did not happen all at once. Since the influx of women cyclists isthe social consequence of the cycling boom mentioned in the previous sentence, thehighlighted sentence describes this consequence in more detail. Therefore, Choice B is correct. The second sentence does not correct any misconceptions (Choice A),provide help in understanding the appeal of the bicycle to privileged women (Choice C),explain the attraction cycling held for a significant cross section of women (Choice D),or describe demographic characteristics of the consumer market for bicycles (Choice E).",
+        "page_num": 52
+    }, {
+        "questionNumber": 6,
+        "questionText": "Which of the following would serve as an example of \"concomitant structuralfeatures\" (  13) that might disadvantage a snail of the rarer form?",
+        "difficulty": "Hard",
+        "answerOptions": ["shell and body that are an exact mirror image of a snail of the commoner", "form B A smaller population of the snails of the rarer form", "A chip or fracture in the shell caused by an object falling on it", "A pattern on the shell that better camouflages it", "A smaller shell opening that restricts mobility and ingestion relative to that of a snail of the commoner form"],
+        "correctAnswer": 4,
+        "explanationText": "Choice A is incorrect: the passage states that \"any disadvantage that a sinistral twist in itselfcould confer on its possessor is almost inconceivable.\"Choice B is incorrect, as a smaller population would be the consequence of the disadvantage, not the cause of it.Choice C is incorrect, as damage caused by an external object is not a \"structural feature\" of a snailshell.Choice D is incorrect, as better camouflage is an advantage, not a disadvantage. The correct answer is Choice E: an impaired ability to move around and ingest food would be adisadvantage.",
+        "page_num": 54
+    }, {
+        "questionNumber": 7,
+        "questionText": "The second paragraph of the passage is primarily concerned with offering possiblereasons why",
+        "difficulty": "Hard",
+        "answerOptions": ["it is unlikely that evolutionary mechanisms could discriminate against", "sinistral snails B sinistrality is relatively uncommon among snail species", "dextral and sinistral populations of a snail species tend to intermingle", "a theory based on a developmental mechanism inadequately accounts for the predominance of dextrality across snail species", "dextral snails breed more readily than sinistral snails, even within predominantly sinistral populations"],
+        "correctAnswer": 1,
+        "explanationText": "The first paragraph ends with the question \"What mechanisms control handedness andkeep left-handedness rare?\" The second paragraph attempts to answer this question:perhaps, the paragraph suggests, sinistral rarity is a consequence either of naturalselection working on \"concomitant structural features,\" or of difficulties in mating forleft-handed snails. Thus Choice B is correct. The paragraph starts by dismissing theidea that evolution could be working against left-handedness itself, but Choice A is incorrect because the paragraph is not concerned with offering reasons for thatdismissal. The paragraph does not even suggest that opposite-handed populations tendto intermingle (Choice C) or that dextral snails breed more rapidly (Choice E), and itdoes not discuss developmental mechanisms (Choice D).",
+        "page_num": 54
+    }, {
+        "questionNumber": 8,
+        "questionText": "Which of the following accurately describes the relationship between theevolutionary and developmental theories discussed in the passage?",
+        "difficulty": "Hard",
+        "answerOptions": ["lthough the two theories reach the same conclusion, each is based on", "different assumptions. B They present contradictory explanations of the same phenomenon.", "The second theory accounts for certain phenomena that the first cannot explain.", "The second theory demonstrates why the first is valid only for very unusual, special cases.", "They are identical and interchangeable in that the second theory merely restates the first in less technical terms."],
+        "correctAnswer": 2,
+        "explanationText": "The correct answer is Choice C. The third paragraph of the passage argues that theevolutionary theory cannot explain \"why right-handedness should have becomepredominant\" and lists some specific reproductive outcomes that cannot be accountedfor by this theory. The next paragraph offers an alternative theory (developmental) thatseems to do a better job of explaining these outcomes.",
+        "page_num": 55
+    }, {
+        "questionNumber": 9,
+        "questionText": "It can be inferred from the passage that a predominantly sinistral snail speciesmight stay predominantly sinistral for each of the following reasons EXCEPT for",
+        "difficulty": "Hard",
+        "answerOptions": ["a developmental mechanism that affects the cell-division pattern of snails", "structural features that advantage dextral snails of the species", "a relatively small number of snails of the same hand for dextral snails of the species to mate with", "anatomical incompatibility that prevents mating between snails of opposing hands within the species", "geographic separation of sinistral and dextral populations"],
+        "correctAnswer": 1,
+        "explanationText": "The question asks about possible reasons why a \"sinistral snail species might staypredominantly sinistral\"; this would happen if the offspring of a sinistral species islargely sinistral. Choices A, C, D, and E give plausible reasons for why this mighthappen: either genetic predisposition for sinistrality (Choice A) or lack of reproductivecompetition from dextral individuals (Choices C, D, and E). Therefore, the correct answer is Choice B: having structural features that advantage dextral snails would tendto reduce the number of sinistral individuals in a species and thus to eventuallytransform a sinistral species into a dextral one.",
+        "page_num": 55
+    }, {
+        "questionNumber": 10,
+        "questionText": "The conclusion is properly drawn if which of the following is assumed?",
+        "difficulty": "Hard",
+        "answerOptions": ["If a canvas already bears a painted image produced by an artist, a second", "artist who uses the canvas to produce a new painting tends to be influenced by the style of the first artist. B Many painted canvases that can be reliably attributed to van Gogh contain underimages of subjects that appear on at least one other canvas that van Gogh is known to have painted.", "Any painted canvas incorrectly attributed to van Gogh would not contain an underimage of a subject that appears in authentic paintings by that artist.", "A painted canvas cannot be reliably attributed to an artist unless the authenticity of any underimage that painting might contain can be reliably attributed to the artist.", "A painted canvas cannot be reliably attributed to a particular artist unless a reliable x-ray examination of the painting is performed."],
+        "correctAnswer": 2,
+        "explanationText": "The passage's argument makes a case for the painting's being an authentic van Goghself-portrait; it cites as evidence the fact that the canvas's painted-over image is that ofa woman who appears in other van Gogh paintings. This argument assumes thatanother artist would not have painted over the original image of the woman, so the correct answer is Choice C. Since the argument does not depend upon the painting'sstylistic elements or upon the commonalities between this and other van Gogh paint-ings, Choices A and B are incorrect. Choices D and E establish criteria for attributionbeyond the passage's argument, so they are incorrect as well.",
+        "page_num": 56
+    }],
+    "passages": [{
+        "lines": ["", "Ragwort was accidentally introduced to New Zealand in the late nineteenth century", "and, like so many invading foreign species, quickly became a pest. By the 1920s, the", "weed was rampant. What made matters worse was that its proliferation coincided with", "sweeping changes in agriculture and a massive shift from sheep farming to dairying.", "Ragwort contains a battery of toxic and resilient alkaloids: even honey made from its", "flowers contains the poison in dilute form. Livestock generally avoid grazing where", "ragwort is growing, but they will do so once it displaces grass and clover in their", "pasture. Though sheep can eat it for months before showing any signs of illness, if", "cattle eat it they sicken quickly, and fatality can even result.", ""],
+        "difficulty": "Easy",
+        "questionNumbers": [1,2],
+        "description": "The passage discusses the introduction of ragwort to New Zealand and explains whythe plant had a significant negative impact on New Zealand's agriculture.",
+        "page_num": 36
+    }, {
+        "lines": ["", "Despite the fact that the health-inspection procedures for catering establishments are", "more stringent than those for ordinary restaurants, more of the cases of food poisoning", "reported to the city health department were brought on by banquets served by catering", "services than were brought on by restaurant meals.", ""],
+        "difficulty": "Easy",
+        "questionNumbers": [
+            3
+        ],
+        "description": [""],
+        "page_num": 36
+    }, {
+        "lines": ["", "African American newspapers in the 1930s faced many hardships. For instance,", "knowing that buyers of African American papers also bought general-circulation", "papers, advertisers of consumer products often ignored African American publications.", "Advertisers' discrimination did free the African American press from advertiser", "domination. Editors could print politically charged material more readily than could", "the large national dailies, which depended on advertisers' ideological approval to secure", "revenues. Unfortunately, it also made the selling price of Black papers much higher", "than that of general-circulation dailies. Often as much as two-thirds of publication", "costs had to come from subscribers or subsidies from community politicians and other", "interest groups. And despite their editorial freedom, African American publishers often", "felt compelled to print a disproportionate amount of sensationalism, sports, and society", "news to boost circulation.", ""],
+        "difficulty": "Easy",
+        "questionNumbers": [
+            4,
+            5
+        ],
+        "description": "The passage discusses challenges and opportunities faced by African Americannewspapers in the 1930s.For the following question, consider each of the choices separately and select allthat apply.",
+        "page_num": 37
+    }, {
+        "lines": ["Years ago, consumers in Frieland began paying an energy tax in the form of two", "Frieland pennies for each unit of energy consumed that came from nonrenewable", "sources. Following the introduction of this energy tax, there was a steady reduction in", "the total yearly consumption of energy from nonrenewable sources."],
+        "difficulty": "Easy",
+        "questionNumbers": [
+            6
+        ],
+        "description": [""],
+        "page_num": 39
+    }, {
+        "lines": ["", "In a plausible but speculative scenario, oceanographer Douglas Martinson suggests", "that temperature increases caused by global warming would not significantly affect the", "stability of the Antarctic environment, where sea ice forms on the periphery of the", "continent in the autumn and winter and mostly disappears in the summer. True, less", "sea ice would form in the winter because global warming would cause temperatures to", "rise. However, Martinson argues, the effect of a warmer atmosphere may be offset as", "follows. The formation of sea ice causes the concentration of salt in surface waters to", "increase; less sea ice would mean a smaller increase in the concentration of salt. Less", "salty surface waters would be less dense and therefore less likely to sink and stir up deep", "water. The deep water, with all its stored heat, would rise to the surface at a slower rate.", "Thus, although the winter sea-ice cover might decrease, the surface waters would", "remain cold enough so that the decrease would not be excessive.", ""],
+        "difficulty": "Easy",
+        "questionNumbers": [
+            7,
+            8,
+            9
+        ],
+        "description": "The passage explains a scenario in which warming would not cause a significantchange in Antarctica's environment by detailing the processes triggered by the forma-tion of sea ice, and considering what might occur in the absence of those processes.",
+        "page_num": 40
+    }, {
+        "lines": ["That sales can be increased by the presence of sunlight within a store has been shown", "by the experience of the only Savefast department store with a large skylight. The sky-", "light allows sunlight into half of the store, reducing the need for artificial light. The rest", "of the store uses only artificial light. Since the store opened two years ago, the depart-", "ments on the sunlit side have had substantially higher sales than the other", "departments.", ""],
+        "difficulty": "Medium",
+        "questionNumbers": [
+            1
+        ],
+        "description": [""],
+        "page_num": 42
+    }, {
+        "lines": ["", "While the best sixteenth-century Renaissance scholars mastered the classics of ancient", "Roman literature in the original Latin and understood them in their original historical", "context, most of the scholars' educated contemporaries knew the classics only from", "school lessons on selected Latin texts. These were chosen by Renaissance teachers after", "much deliberation, for works written by and for the sophisticated adults of pagan Rome", "were not always considered suitable for the Renaissance young: the central Roman clas\ufffd", "sics refused (as classics often do) to teach appropriate morality and frequently suggested", "the opposite. Teachers accordingly made students' needs, not textual and historical accu\ufffd", "racy, their supreme interest, chopping dangerous texts into short phrases, and using these", "to impart lessons extemporaneously on a variety of subjects, from syntax to science.", "Thus, I believe that a modern reader cannot know the associations that a   of ancient", "Roman poetry or prose had for any particular educated sixteenth-century reader.", ""],
+        "difficulty": "Medium",
+        "questionNumbers": [
+            2,
+            3,
+            4
+        ],
+        "description": "The passage contrasts the way in which Renaissance scholars studied and contextualizedclassic Roman texts with the ways in which students of the era were taught snippets ofLatin excerpted from them. The methods and motives of Renaissance teachers areexplained, and the passage concludes by asserting that this pedagogical practice preventsmodern readers from understanding the meanings that such snippets held for mostRenaissance readers.",
+        "page_num": 43
+    }, {
+        "lines": ["", "In humans, the pilomotor reflex leads to the response commonly known as goose", "bumps, and this response is widely considered to be vestigial--that is, something", "formerly having a greater physiological advantage than at present. It occurs when the", "tiny muscle at the base of a hair follicle contracts, pulling the hair upright. In animals", "with feathers, fur, or quills, this creates a layer of insulating warm air or a reason for", "predators to think twice before attacking. But human hair is too puny to serve these", "functions. Goose bumps in humans may, however, have acquired a new role. Like", "flushing--another thermoregulatory (heat-regulating) mechanism--goose bumps have", "become linked with emotional responses, notably fear, rage, or the pleasure of, say,", "listening to beautiful music. They may thus serve as a signal to others.", ""],
+        "difficulty": "Medium",
+        "questionNumbers": [
+            5,
+            6
+        ],
+        "description": "The passage describes the physiological phenomenon of pilomotor reflex (or \"goosebumps\") and discusses its usefulness in animals and in human beings.",
+        "page_num": 45
+    }, {
+        "lines": ["", "This passage is adapted from material published in 2001.", "Frederick Douglass was unquestionably the most famous African American of the", "nineteenth century; indeed when he died in 1895 he was among the most distinguished", "public figures in the United States. In his study of Douglass' career as a major figure in", "the movement to abolish slavery and as a spokesman for Black rights, Waldo Martin has", "provoked controversy by contending that Douglass also deserves a prominent place in", "the intellectual history of the United States because he exemplified so many strands of", "nineteenth-century thought: romanticism, idealism, individualism, liberal humanism,", "and an unshakable belief in progress. But this very argument provides ammunition for", "those who claim that most of Douglass' ideas, being so representative of their time, are", "now obsolete. Douglass' vision of the future as a melting pot in which all racial and", "ethnic differences would dissolve into \"a composite American nationality\" appears from", "the pluralist perspective of many present-day intellectuals to be not only utopian but", "even wrongheaded. Yet there is a central aspect of Douglass' thought that seems not in", "the least bit dated or irrelevant to current concerns. He has no rival in the history of the", "nineteenth-century United States as an insistent and effective critic of the doctrine of", "innate racial inequality. He not only attacked racist ideas in his speeches and writings,", "but he offered his entire career and all his achievements as living proof that racists were", "wrong in their belief that one race could be inherently superior to another.", "", "While Martin stresses Douglass' antiracist egalitarianism, he does not adequately", "explain how this aspect of Douglass' thought fits in with his espousal of the liberal Vic-", "", "torian attitudes that many present-day intellectuals consider to be na\ufffdve and outdated.", "The fact is that Douglass was attracted to these democratic-capitalist ideals of his time", "because they could be used to attack slavery and the doctrine of White supremacy. His", "favorite rhetorical strategy was to expose the hypocrisy of those who, while professing", "adherence to the ideals of democracy and equality of opportunity, condoned slavery", "and racial discrimination. It would have been strange indeed if he had not embraced", "liberal idealism, because it proved its worth for the cause of racial equality during the", "national crisis that eventually resulted in emancipation and citizenship for African", "Americans. These points may seem obvious, but had Martin given them more atten-", "tion, his analysis might have constituted a more convincing rebuttal to those critics", "who dismiss Douglass' ideology as a relic of the past. If one accepts the proposition", "that Douglass' deepest commitment was to Black equality and that he used the liberal", "ideals of his time as weapons in the fight for that cause, then it is hard to fault him for", "seizing the best weapons at hand.", "", "", ""],
+        "difficulty": "Medium",
+        "questionNumbers": [
+            7,
+            8,
+            9,
+            10
+        ],
+        "description": "The passage discusses the views of the nineteenth-century African American intellectualFrederick Douglass and asserts their continuing relevance to the issues of the modern era.The second paragraph critiques a book about Douglass written by Waldo Martin and faultsthe author for failing to adequately explain some apparent inconsistencies in Douglass'political views.",
+        "page_num": 46
+    }, {
+        "lines": ["The plant called the scarlet gilia can have either red or white flowers. It had long been", "thought that hummingbirds, which forage by day, pollinate its red flowers and that", "hawkmoths, which forage at night, pollinate its white flowers. To try to show that this", "pattern of pollination by colors exists, scientists recently covered some scarlet gilia", "flowers only at night and others only by day: plants with red flowers covered at night", "became pollinated; plants with white flowers covered by day became pollinated.", ""],
+        "difficulty": "Medium",
+        "questionNumbers": [
+            11
+        ],
+        "description": [""],
+        "page_num": 49
+    }, {
+        "lines": ["", "Supernovas in the Milky Way are the likeliest source for most of the cosmic rays", "reaching Earth. However, calculations show that supernovas cannot produce", "ultrahigh-energy cosmic rays (UHECRs), which have energies exceeding 1018 electron", "volts. It would seem sensible to seek the source of these in the universe's most", "conspicuous energy factories: quasars and gamma-ray bursts billions of light-years", "away from Earth. But UHECRs tend to collide with photons of the cosmic microwave", "background--pervasive radiation that is a relic of the early universe. The odds favor a", "collision every 20 million light-years, each collision costing 20 percent of the cosmic", "ray's energy. Consequently, no cosmic ray traveling much beyond 100 million", "light-years can retain the energy observed in UHECRs.", ""],
+        "difficulty": "Hard",
+        "questionNumbers": [
+            1,
+            2
+        ],
+        "description": "The passage discusses two hypotheses about the origins of ultrahigh-energy cosmic rays(UHECRs) and presents evidence suggesting that both hypotheses are probably false.For the following question, consider each of the choices separately and select allthat apply.",
+        "page_num": 50
+    }, {
+        "lines": ["", "The massive influx of women cyclists--making up at least a third of the total market--", "was perhaps the most striking and profound social consequence of the mid-1890s", "cycling boom. Although the new, improved bicycle had appealed immediately to a few", "privileged women, its impact would have been modest had it not attracted a greater", "cross section of the female population. It soon became apparent that many of these", "pioneer women bicyclists had not taken up the sport as an idle pastime. Rather, they", "saw cycling as a noble cause to be promoted among all women as a means to improve", "the general female condition. Not only would cycling encourage healthy outdoor", "exercise, they reasoned, it would also hasten long-overdue dress reform. To feminists,", "the bicycle affirmed nothing less than the dignity and equality of women.", ""],
+        "difficulty": "Hard",
+        "questionNumbers": [
+            3,
+            4,
+            5
+        ],
+        "description": "The passage discusses the widespread popularity of bicycling among women in the1890s and mentions several reasons why this activity was seen as beneficial for women.For the following question, consider each of the choices separately and select allthat apply.",
+        "page_num": 51
+    }, {
+        "lines": ["", "What causes a helix in nature to appear with either a dextral (\"right-handed,\" or", "", "clockwise) twist or a sinistral (\"left-handed,\" or counterclockwise) twist is one of the", "", "most intriguing puzzles in the science of form. Most spiral-shaped snail species are", "", "predominantly dextral. But at one time, handedness (twist direction of the shell) was", "", "5 equally distributed within some snail species that have become predominantly dextral", "", "or, in a few species, predominantly sinistral. What mechanisms control handedness", "", "and keep left-handedness rare?", "", "It would seem unlikely that evolution should discriminate against sinistral snails if", "", "sinistral and dextral snails are exact mirror images, for any disadvantage that a sinistral", "", "10 twist in itself could confer on its possessor is almost inconceivable. But left- and", "", "right-handed snails are not actually true mirror images of one another. Their shapes", "", "are noticeably different. Sinistral rarity might, then, be a consequence of possible", "", "disadvantages conferred by these other concomitant structural features. In addition,", "", "perhaps left- and right-handed snails cannot mate with each other, having", "", "15 incompatible twist directions. Presumably an individual of the rarer form would have", "", "relative difficulty in finding a mate of the same hand, thus keeping the rare form rare", "", "or creating geographically separated right- and left-handed populations.", "", "But this evolutionary mechanism combining dissymmetry, anatomy, and chance", "", "does not provide an adequate explanation of why right-handedness should have", "", "become predominant. It does not explain, for example, why the infrequent unions", "", "between snails of opposing hands produce fewer offspring of the rarer than the", "", "commoner form in species where each parent contributes equally to handedness. Nor", "", "does it explain why, in a species where one parent determines handedness, a brood is", "", "not exclusively right- or left-handed when the offspring would have the same genetic", "", "predisposition. In the European pond snail Lymnaea peregra, a predominantly dextral", "", "species whose handedness is maternally determined, a brood might be expected to be", "", "exclusively right- or left-handed--and this often occurs. However, some broods", "", "possess a few snails of the opposing hand, and in predominantly sinistral broods, the", "", "incidence of dextrality is surprisingly high.", "", "Here, the evolutionary theory must defer to a theory based on an explicit", "", "developmental mechanism that can favor either right- or left-handedness. In the case", "", "of Lymnaea peregra, studies indicate that a dextral gene is expressed during egg", "", "formation; i.e., before egg fertilization, the gene produces a protein, found in the", "", "cytoplasm of the egg, that controls the pattern of cell division and thus handedness. In", "", "35 experiments, an injection of cytoplasm from dextral eggs changes the pattern of", "", "sinistral eggs, but an injection from sinistral eggs does not influence dextral eggs. One", "", "explanation for the differing effects is that all Lymnaea peregra eggs begin left-handed", "", "but most switch to being right-handed. Thus the path to a solution to the puzzle of", "", "handedness in all snails appears to be as twisted as the helix itself.", ""],
+        "difficulty": "Hard",
+        "questionNumbers": [
+            6,
+            7,
+            8,
+            9
+        ],
+        "description": "The passage addresses the question of what determines the dextral (clockwise) orsinistral (counterclockwise) shape of snail shells and discusses two possibleexplanations of the distributional patterns of shell shapes in snail populations: theevolutionary theory and the developmental theory. Evidence against the evolutionarytheory is presented, and the developmental theory is offered as a more plausibleexplanation.",
+        "page_num": 53
+    }, {
+        "lines": ["X-ray examination of a recently discovered painting--judged by some authorities to be a", "self-portrait by Vincent van Gogh--revealed an underimage of a woman's face. Either", "van Gogh or another painter covered the first painting with the portrait now seen on the", "surface of the canvas. Because the face of the woman in the underimage also appears on", "canvases van Gogh is known to have painted, the surface painting must be an authentic", "self-portrait by van Gogh.", ""],
+        "difficulty": "Hard",
+        "questionNumbers": [
+            10
+        ],
+        "description": [""],
+        "page_num": 56
+    }]
+}

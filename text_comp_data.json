@@ -1,0 +1,227 @@
+{
+    "questions": [{
+        "questionNumber": 1,
+        "questionText": "This composer has never courted popularity: her rugged modernism seems todefy rather than to     the audience.",
+        "difficulty": "Easy",
+        "answerOptions": ["ignore ", "discount", "woo", "teach", "cow"],
+        "correctAnswer": -1,
+        "explanationText": "The first part of the sentence asserts that the composer has never sought popularity,while the second part of the sentence explains what the composer's style does instead.The blank, then, must be filled with a verb that is roughly synonymous with \"courtpopularity.\" The choice that best does this is \"woo;\" its correctness is confirmed by thefact that it also forms the best contrast with \"defy.\" None of the other choices indicatesthe desire to be liked by or to win over audiences that a synonym of \"court popularity\"would require.Thus the correct answer is woo (Choice C).",
+        "page_num": 36
+    }, {
+        "questionNumber": 2,
+        "questionText": "The sight of a single actor portraying several characters in the same scene is nolonger a shock to the average moviegoer, such special-effects trickery havingbecome so            .",
+        "difficulty": "Easy",
+        "answerOptions": ["expensive ", "specialized", "sinister", "commonplace", "unreliable"],
+        "correctAnswer": -1,
+        "explanationText": "The blank calls for a term that would explain why the special effects that once aston-ished moviegoers no longer do so. \"Commonplace\" does this by suggesting that thetechnology has become so familiar that it no longer surprises; therefore, it is the correctanswer. None of the other options suggests a change that would result in desensitizingmoviegoers to the special effects on-screen.Thus the correct answer is commonplace (Choice D).66Question Type 2: Text Completion",
+        "page_num": 36
+    }, {
+        "questionNumber": 3,
+        "questionText": "Early studies often concluded that the public was  the propagandisticinfluence of mass communications, but one recent study indicates that, on thecontrary, mass communications seldom produce marked changes in socialattitudes or actions.",
+        "difficulty": "Easy",
+        "answerOptions": ["unaware of ", "scornful of", "susceptible to", "unimpressed by", "coping with"],
+        "correctAnswer": -1,
+        "explanationText": "The recent study found that mass communications had negligible effects on the public. Sincethe recent study's findings are contrary to those of earlier ones, the earlier studies must havefound that the influence of mass communications was significant; thus, the blank must befilled with a word that indicates that the public is swayed by such communications. Of thechoices, only \"susceptible to\" does this. Two of the other choices, \"unaware of \" and\"unimpressed by,\" indicate the opposite. \"Scornful of \" also indicates some resistance to masscommunications, as does \"coping with,\" so those are incorrect as well.Thus the correct answer is susceptible to (Choice C).",
+        "page_num": 36
+    }, {
+        "questionNumber": 4,
+        "questionText": "The figure-skating pair's convincing victory last week was particularly (i)  totheir rivals, who were in peak form and complained privately about the judging. Thatthe pair won when their rivals were (ii)   too is also impressive.Blank (i)                    Blank (ii)",
+        "difficulty": "Easy",
+        "answerOptions": ["unsurprising                D terrific ", "irksome                     E nervous", "gratifying                  F inconsistent"],
+        "correctAnswer": -1,
+        "explanationText": "The fact that the winning pair's rivals were \"in peak physical form\" suggests that these rivalshad a reasonable expectation of victory; the fact that they \"complained about the judging\"indicates that they regarded the pair's victory as not completely deserved. These twoconsiderations suggest that the rivals had a negative reaction to the winning pair's victory; theonly answer choice for Blank (i) that matches this meaning is \"irksome,\" so it is correct. Thesecond sentence reinforces the implication that the rivals were also strongly deserving of vic-tory, and the word \"too\" suggests that the performances of the winning pair and of their rivalswere comparable in quality. This points to \"terrific\" as the correct answer choice for Blank (ii).Thus the correct answer is irksome (Choice B) and terrific (Choice D).",
+        "page_num": 36
+    }, {
+        "questionNumber": 5,
+        "questionText": "In his initial works, the playwright made physical disease (i)               factor in theaction; from this, his early critics inferred that he had a predilection for focusingon (ii)      subject matter.Blank (i)                        Blank (ii)",
+        "difficulty": "Easy",
+        "answerOptions": ["a pivotal                   D recondite ", "a nonexistent               E uncomplicated", "an obscure                  F morbid"],
+        "correctAnswer": -1,
+        "explanationText": "",
+        "page_num": 36
+    }, {
+        "questionNumber": 6,
+        "questionText": "7Question Type 2: Text CompletionExplanation",
+        "difficulty": "Easy",
+        "answerOptions": ["writer who has \"a predilection for focusing\" on a thing makes that thing prominent in", "his or her work, so the answer to Blank (i) must be synonymous with \"prominent\" or", "\"significant\"; the answer choice that matches this meaning is \"pivotal,\" so it is correct.", "The answer to Blank (ii) must be a word that describes the subject matter of physical disease, so the correct choice is \"morbid.\" Thus the correct answer is a pivotal (Choice A) and morbid (Choice F). 6. We have yet to (i)                        the assessment of Canada's biodiversity. Most of the vertebrates have been assessed, but our challenge will be the assessment of invertebrates and plants. This task is (ii)                not only because of the high number of species, but also because of the diversity, each species requiring a different approach. Blank (i)  Blank (ii) A initiate                                   D repetitious ", "complete                                   E trivial C limit                                      F daunting"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence implies that Canada's invertebrates and plants have not yet been assessed,so the assessment of Canada's biodiversity is not finished; therefore, the correct answerto Blank (i) is \"complete.\" The assessment of invertebrates and plants is described as a\"challenge,\" so the answer to Blank (ii) must be synonymous with \"difficult.\" The onlyanswer choice that matches this meaning is \"daunting,\" so it is correct.Thus the correct answer is complete (Choice B) and daunting (Choice F).",
+        "page_num": 36
+    }, {
+        "questionNumber": 7,
+        "questionText": "The company's efforts to improve safety were apparently (i)               , at leastaccording to the company's own data, which showed that the (ii)incidents with the potential to cause a serious accident declined significantly.Nevertheless, independent analysts argue that those statistics are (iii)                           .These analysts maintain that the company has consistently underestimated boththe probability and the likely effects of accidents in the sensitive and poorlyunderstood environment in which the company is operating.Blank (i)  Blank (ii)          Blank (iii)",
+        "difficulty": "Easy",
+        "answerOptions": ["innovative                                 D frequency of    G deceptive ", "successful                                 E impediments to  H testable", "frustrated                                 F attention to    I consistent"],
+        "correctAnswer": -1,
+        "explanationText": "Since the analysts found that the company's statistics underestimated the potential for accidents, theanswer to Blank (iii) must reflect the inaccuracy or inapplicability of those statistics. \"Deceptive\" is theonly choice that does so. Blank (i) must then be answered with a choice that reflects the more positiveview of accident prevention that deceptive statistics might provide. \"Frustrated\" efforts would implythe opposite, and while \"innovative\" has positive connotations, the passage is concerned with theeffectiveness of safety measures rather than with their novelty. Thus \"successful\" is the correct choice.Finally, the word for Blank (ii) describes something related to potentially dangerous incidents thatwould indicate improved safety if it were to decline. If \"impediments to\" or \"attention to\" such inci-dents were to decline, that would likely have the opposite implication. However, fewer such incidentswould presumably be a sign of improved safety; thus \"frequency of \" is the correct response.Thus the correct answer is successful (Choice B), frequency of (Choice D), anddeceptive (Choice G).",
+        "page_num": 36
+    }, {
+        "questionNumber": 8,
+        "questionText": "6Question Type 2: Text Completion",
+        "difficulty": "Easy",
+        "answerOptions": [],
+        "correctAnswer": -1,
+        "explanationText": "",
+        "page_num": 36
+    }, {
+        "questionNumber": 8,
+        "questionText": "Researchers trying to make it possible to trace counterfeit documents to theprinter that produced them are (i)  the fact that the rotating drums andmirrors inside laser printers are imperfect devices that leave unique patterns ofbanding in their output. Although these patterns are (ii)        to the naked eye,they can be (iii)        and analyzed by computer programs that the researchershave spent the past year devising.Blank (i)                     Blank (ii)                   Blank (iii)",
+        "difficulty": "Easy",
+        "answerOptions": ["exploiting                   D invisible                  G detected ", "facing                       E obvious                    H implemented", "C manipulating                 F unappealing                I generated"],
+        "correctAnswer": -1,
+        "explanationText": "The \"although\" that begins the second sentence suggests that there is a contrast betweenthe way the naked eye perceives the patterns in question and the way computerprograms can view them. The answers to Blank (ii) and Blank (iii) must thereforereflect this contrast. \"Invisible\" and \"detected\" are the only pairing that does this.Blank (i) calls for a characterization of the relationship between the researchers and theinevitability of imperfections in printing technology. Since the passage asserts thatresearchers are using computers to analyze these imperfections, \"exploiting\" is the bestchoice for Blank (i). \"Facing\" does not imply the level of engagement detailed in thepassage, while \"manipulating\" suggests that the researchers' focus might be onchanging the imperfections themselves, rather than analyzing them.Thus the correct answer is exploiting (Choice A), invisible (Choice D), anddetected (Choice G).",
+        "page_num": 36
+    }, {
+        "questionNumber": 9,
+        "questionText": "In her startlingly original writing, she went further than any other twentieth-century author in English (perhaps in any language) in (i)       literarylanguage and form, (ii)        stylistic conventions, and (iii)  a rich anddiverse structure of meaning.Blank (i)                     Blank (ii)                   Blank (iii)",
+        "difficulty": "Easy",
+        "answerOptions": ["reinventing                  D undoing                    G replicating ", "canonizing                   E overpraising               H borrowing", "stabilizing                  F misunderstanding           I introducing"],
+        "correctAnswer": -1,
+        "explanationText": "The writer's work is described as startlingly original, and the sentence specifies three waysin which the author achieved this originality. Therefore each blank must be filled witha word that reflects innovative rather than conventional ways of writing. For Blank (i), thechoice must be \"reinventing,\" because neither \"canonizing\" nor \"stabilizing\" wouldindicate a break with traditional forms or language. Blank (ii) must contain a word thatdescribes the writer's relationship with convention; \"undoing\" is the only one that reflectsoriginality. Blank (iii) likewise requires a word that conveys the novelty of the writer'swork. Both \"replicating\" and \"borrowing\" suggest a derivative approach to writing, sothey are incorrect. \"Introducing\" implies that the writer's structure is new; therefore it isthe correct choice.Thus the correct answer is reinventing (Choice A), undoing (Choice D), andintroducing (Choice I).69Question Type 2: Text CompletionFor each of Questions 1 to 8, select one entry for each blank from the correspondingcolumn of choices. Fill all blanks in the way that best completes the text.",
+        "page_num": 36
+    }, {
+        "questionNumber": 1,
+        "questionText": "The media once portrayed the governor as anything but ineffective; they now,however, make her out to be the epitome of  .",
+        "difficulty": "Medium",
+        "answerOptions": ["fecklessness ", "brilliance", "dynamism", "egoism", "punctiliousness"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence contrasts the media's former and current depictions of the governor. Sincethe governor was once presented as \"anything but ineffective,\" the media once saw heras extremely competent. It follows that the phrase completed by the blank will have theopposite meaning. To be the epitome of something is to be representative of that trait,so the blank must be filled with a word that implies incompetence. \"Brilliance,\"\"dynamism,\" and \"punctiliousness\" are all positive traits, so they do not work in thiscontext. \"Egoism,\" while often thought of as a negative trait, does not implyincompetence. That leaves \"fecklessness,\" whose meaning includes ineffectiveness,making it a very good contrast with the first half of the sentence.Thus, the correct answer is fecklessness (Choice A).",
+        "page_num": 36
+    }, {
+        "questionNumber": 2,
+        "questionText": "For most of the first half of the nineteenth century, science at the university was instate, despite the presence of numerous luminaries.",
+        "difficulty": "Medium",
+        "answerOptions": ["a scintillating ", "a pathetic", "a controversial", "an incendiary", "a veracious"],
+        "correctAnswer": -1,
+        "explanationText": "Since the presence of numerous luminaries, a positive thing, is portrayed as a factor thatruns counter to the general state of science at the university, that general state must benegative. Therefore the word that fills the blank must describe a generally negative at-mosphere. \"Pathetic\" certainly does. Of the other answers, \"scintillating,\" meaning bril-liant, is just the opposite of what is called for, while \"veracious\" is similarly toopositive. \"Controversial\" and \"incendiary\" both describe an argumentative or explosiveenvironment that would not necessarily be mitigated by the presence of numerousluminaries.Thus the correct answer is a pathetic (Choice B).70Question Type 2: Text Completion",
+        "page_num": 36
+    }, {
+        "questionNumber": 3,
+        "questionText": "In a recent history of the Renaissance, by showing how the artistic efflorescence ofthat era was (i)    linked to its commercial vitality, Jardine demonstratedthat the spirit of acquisitiveness may be (ii)      that of cultural creativity.Blank (i)                    Blank (ii)",
+        "difficulty": "Medium",
+        "answerOptions": ["questionably                 D threatened by ", "intimately                   E inseparable from", "skeptically                  F comparable to"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence talks about Jardine's demonstrating a certain general relation between twosocial phenomena (\"spirit of acquisitiveness\" and \"cultural creativity\") by showing thatthis relation was held between two particular historical instances of these phenomena(\"commercial vitality\" and \"artistic efflorescence\" of the Renaissance). Therefore, thephrase \"(i)  linked to\" and the answer to Blank (ii) must be identical or verysimilar in meaning. The only answer choices that are related in this way are \"intimately\"and \"inseparable from\": if two things are \"intimately linked,\" then they are very plausibly\"inseparable from\" each other.Thus the correct answer is intimately (Choice B) and inseparable from (Choice E).",
+        "page_num": 36
+    }, {
+        "questionNumber": 4,
+        "questionText": "The setting in which the concert took place (i)  : the group's performancewas elegant and polished, but the sound, which seeped across the cold, unresonanthigh school auditorium, was oddly (ii)              , given the energy the playersseemed to be putting into it.Blank (i)                     Blank (ii)",
+        "difficulty": "Medium",
+        "answerOptions": ["exacted a toll               D clangorous ", "encouraged nervousness       E tepid", "solved a dilemma             F inviting"],
+        "correctAnswer": -1,
+        "explanationText": "The \"but\" in the sentence suggests that there is a contrast between the group's overallperformance and the quality of the sound; since the former is given a positivedescription (\"elegant and polished\"), the description of the latter in Blank (ii) must benegative. Furthermore, the quality of the sound must be in contrast with the apparentenergy of the performers. The only answer choice for Blank (ii) that meets theseconditions is \"tepid,\" so it is correct. The sentence as a whole suggests that the setting ofthe concert had a negative effect on the performance; the answer choice for Blank (i)that best fits this meaning is \"exacted a toll,\" so it is correct.Answer Choice B for Blank (i), \"encouraged nervousness,\" is also negative in mean-ing, but it is incorrect, because the sentence does not talk about the psychological stateof the musicians or the audience.Thus the correct answer is exacted a toll (Choice A) and tepid (Choice E).71Question Type 2: Text Completion",
+        "page_num": 36
+    }, {
+        "questionNumber": 5,
+        "questionText": "The governor has long been obsessed with excising the media from the politician-public relationship. That's been the unifying aim of all her seemingly disconnectedventures since entering public life: a determination to (i)                   , and eventually(ii)                          , the media's hold on political communication.Blank (i)                    Blank (ii)",
+        "difficulty": "Medium",
+        "answerOptions": ["conceal                     D augment ", "erode                       E consolidate", "rejuvenate                  F end"],
+        "correctAnswer": -1,
+        "explanationText": "Blanks (i) and (ii) must describe what the governor wants to do to \"the media's hold onpolitical communication.\" From the first sentence, it is clear that the governor's goal is to\"excise\" or eliminate the media as an intermediary between politicians and the public;this must be the meaning of the answer to Blank (ii), which describes the governor'seventual, or long-term, goal. The only answer choice for Blank (ii) that has this meaningis \"end,\" so it is correct. The answer to Blank (i) must be a word that denotes the initialphase of a gradual process that ends with the complete elimination of the media'sinfluence; the answer choice that fits this meaning is \"erode,\" so it is correct.Thus the correct answer is erode (Choice B) and end (Choice F).",
+        "page_num": 36
+    }, {
+        "questionNumber": 6,
+        "questionText": "Female labor was essential to the growth of eighteenth-century European textileindustries, yet it remains difficult to (i)     . Despite significant (ii)      inresearch about women, the role of female labor remains the single most glaringomission in most economic analyses of the history of European industrialization.Women far outnumbered men as workers in the textile industries, yet wageindices and discussions of growth, cost of living, and the like (iii)         aboutthe male labor force.Blank (i)                    Blank (ii)                Blank (iii)",
+        "difficulty": "Medium",
+        "answerOptions": ["track                       D advances          G incorporate data only ", "overestimate                E gaps              H suppress most information", "ignore                      F disinterest       I too rarely talk"],
+        "correctAnswer": -1,
+        "explanationText": "The second sentence asserts that the role of women is generally left out from mostanalyses of industrialization. Given this omission, it follows that data about female laborwould be hard to come by, making it difficult to measure its growth; therefore \"track\" isthe correct answer for Blank (i). As for the other choices, since the author asserts that therole of female labor has routinely been overlooked, \"ignore\" cannot be correct. Theconjunction \"yet\" in the first sentence indicates that the phrase containing Blank(i) contrasts with the importance of female labor; since \"overestimate\" emphasizes thisimportance, it also cannot be correct. The second sentence places research about femalelabor during industrialization into the larger context of research about women; the word\"despite\" that begins the sentence indicates that the latter runs counter to trends in thelarger field. Neither \"gaps\" nor \"disinterest\" would provide the necessary contrastbetween the two, since \"gaps\" in the larger field of research about women would mirrorthe omission of the role of female labor and \"disinterest\" would explain such omissions.",
+        "page_num": 36
+    }, {
+        "questionNumber": 7,
+        "questionText": "2Question Type 2: Text Completion\"Advances\" does provide a contrast, and is thus the correct answer. In the sentencecontaining Blank (iii), \"yet\" indicates a contrast between the makeup of the workforceand the availability of data about the workforce. Because the author says that womenoutnumbered men in the workforce, the contrast would likely require data that mostlyconcerned men. Of the three choices for Blank (iii), \"incorporate data only\" conveys thissense. The other two options can be ruled out because of the previous sentence'sassertion that female labor is ignored by economic analyses. With women beingexcluded from the data, it follows that it is mostly about men; therefore it does not makesense to assert that information about male labor is suppressed or too infrequently discussed.Thus the correct answer is track (Choice A), advances (Choice D), and incorpo-rate data only (Choice G).",
+        "difficulty": "Medium",
+        "answerOptions": [],
+        "correctAnswer": -1,
+        "explanationText": "",
+        "page_num": 36
+    }, {
+        "questionNumber": 7,
+        "questionText": "It is a sad but just indictment of some high school history textbooks that theyfrequently report as (i)            claims that historians hotly debate or that are evencompletely (ii)           by (iii)  primary sources.Blank (i)                Blank (ii)                  Blank (iii)",
+        "difficulty": "Medium",
+        "answerOptions": ["factual                 D resolved                  G dubious ", "controversial           E corroborated              H incomplete", "C sensational             F contradicted              I reliable"],
+        "correctAnswer": -1,
+        "explanationText": "The use of the word \"indictment,\" meaning a charge of wrongdoing, indicates thatthe sentence is sharply criticizing the textbooks in question and that the blanks mustbe completed with words that support this critique. Blank (i) describes how suchtextbooks characterize historical claims that are hotly debated. Since such claims are infact controversial, it would not be surprising or inaccurate for textbooks to report themas such, so \"controversial\" is not correct. Of the other two responses, \"sensational\"has some merit, suggesting that the textbooks resort to a melodramatic presentationof historical debate; however, \"factual\" is the better choice, implying as it does grossinaccuracies. That the critique of the textbooks centers upon accuracy rather than toneis confirmed by the rest of the sentence, which deals with the relationship between thetextbooks' claims and the primary sources upon which historical scholarship is based.The \"even\" that precedes Blank (ii) calls for a word that is yet further away from factualthan \"hotly debated.\" Of the choices, only \"contradicted\" fits this criterion; the other twooptions are the opposite of what is needed. Finally, Blank (iii) calls for a word that de-scribes the primary sources. Since the critique of the textbooks' accuracy rests upontheir divergence from these sources, the sources themselves must be characterized asauthoritative. \"Reliable\" does exactly that, while \"dubious\" and \"incomplete\" suggest theopposite.Thus the correct answer is factual (Choice A), contradicted (Choice F), and reliable(Choice I).73Question Type 2: Text Completion",
+        "page_num": 36
+    }, {
+        "questionNumber": 8,
+        "questionText": "The reason minimum temperatures are going up more rapidly than maximumsmay involve cloud cover and evaporative cooling. Clouds tend to keep the dayscooler by reflecting sunlight, and the nights warmer by (i)  loss of heatfrom Earth's surface. Greater amounts of moisture in the soil from additionalprecipitation and cloudiness (ii)          the daytime temperature increasesbecause part of the solar energy is (iii)        the evaporation of that moisture.Blank (i)                   Blank (ii)                     Blank (iii)",
+        "difficulty": "Medium",
+        "answerOptions": ["inhibiting                  D augment                      G intensified by ", "exacerbating                E mask                         H unrelated to", "replicating                 F restrain                     I used up in"],
+        "correctAnswer": -1,
+        "explanationText": "The second sentence asserts that clouds make for warmer nights by doing something to theloss of heat from Earth. Since less heat lost means more warmth, a word that meanspreventing or slowing heat loss is required for Blank (i). \"Inhibiting\" is therefore the answer.\"Exacerbating\" has the opposite meaning, while \"replicating\" makes no sense in thiscontext. Since the first sentence asserts that daytime highs are increasing less rapidly thannighttime lows, Blank (ii) calls for a verb that indicates a moderation in rises in temperatureduring the day, and \"restrain\" has this sense. \"Augment,\" meaning to increase, has theopposite meaning, while \"mask\" would indicate that measurements are not reflecting actualincreases in temperature, an idea not supported by the rest of the passage. The \"because\"in the last sentence indicates that the second clause explains how daytime temperatureincreases are restrained; it does so by making reference to solar energy and the evaporationof moisture. Because solar energy is responsible for increases in daytime temperature, theanswer to Blank (iii) requires a word that explains how evaporation can lessen or divertthat energy for other purposes. \"Used up in\" does this because it indicates that less solarenergy is available to warm the Earth's surface when a portion of it is instead devoted toevaporation. Neither \"intensified by\" nor \"unrelated to\" indicate a connection between solarenergy and evaporation that would lessen warming.Thus the correct answer is inhibiting (Choice A), restrain (Choice F), and used upin (Choice I).74Question Type 2: Text CompletionFor each of Questions 1 to 8, select one entry for each blank from the correspondingcolumn of choices. Fill all blanks in the way that best completes the text.",
+        "page_num": 36
+    }, {
+        "questionNumber": 1,
+        "questionText": "In searching for norms in the sense of authoritative standards of what ought to be,rather than in the sense of what is average and thus can be considered normal,normative ethics aims to  .",
+        "difficulty": "Hard",
+        "answerOptions": ["predict ", "mitigate", "question", "dictate", "personalize"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence defines normative ethics by specifying the sense of the \"norms\" for whichit searches. Since these are authoritative ethical standards, the word that fills the blankmust describe the act of establishing those standards. The choice that does this is \"dic-tate.\" Of the other choices, \"predict\" suggests that normative ethics merely attempts todescribe future behavior rather than establish what guidelines should shape it, while\"personalize\" suggests a concern with individual circumstances that is not otherwiseaddressed in the sentence. \"Mitigate\" (to moderate or alleviate) is likewise incongruentwith the rest of the sentence, while \"question\" does not address normative ethics' con-cern with establishing rather than questioning norms.Thus the correct answer is dictate (Choice D).",
+        "page_num": 36
+    }, {
+        "questionNumber": 2,
+        "questionText": "When she first came to France from Bulgaria, she was hardly the  studentshe later made herself out to be, since she had access to considerable familywealth.",
+        "difficulty": "Hard",
+        "answerOptions": ["naive ", "precocious", "impecunious", "ambitious", "assiduous"],
+        "correctAnswer": -1,
+        "explanationText": "The student's considerable family wealth is cited as proof that her later depiction of herselfwas false; the word that fills the blank describes this later depiction, so it must be anadjective that is incompatible with wealth. \"Impecunious,\" meaning penniless, is thereforethe correct choice. None of the other responses is dependent on wealth--her family'sfinances would have no bearing on whether the student was actually na\ufffdve, precocious(advanced for her age), ambitious, or assiduous (diligent)--so they are incorrect.Thus the correct answer is impecunious (Choice C).75Question Type 2: Text Completion",
+        "page_num": 36
+    }, {
+        "questionNumber": 3,
+        "questionText": "Researchers have observed chimpanzees feigning injury in order to influenceother members of the group, thus showing that the capacity to         is notuniquely human.",
+        "difficulty": "Hard",
+        "answerOptions": ["cooperate ", "instruct", "conspire", "dissemble", "dominate"],
+        "correctAnswer": -1,
+        "explanationText": "The words \"thus showing\" suggest that the capacity that is not unique to humans wasdemonstrated by the activity the researchers observed. Since that activity--feigninginjury to influence others--requires the capacity to transmit false information,\"dissemble\" is the correct answer. Because there is no indication that the chimpanzeesworked together to feign injury, \"conspire\" is incorrect. None of the other options--\"dominate,\" \"instruct,\" or \"cooperate\"--suggests the pretense involved in feigning aninjury, so they are all incorrect.Thus the correct answer is dissemble (Choice D).",
+        "page_num": 36
+    }, {
+        "questionNumber": 4,
+        "questionText": "Instant celebrity is often (i)  asset because if there is no (ii)  tointerest the public--no stage or screen triumphs, no interesting books, no heroicexploits--people quickly become bored.Blank (i)                            Blank (ii)",
+        "difficulty": "Hard",
+        "answerOptions": ["a fleeting                       D competing attraction ", "an incomparable                  E continuity of exposure", "an untapped                      F real achievement"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence says that people quickly become bored with those who achieve suddenfame in the absence of the condition named by Blank (ii), implying that instantcelebrity often does not last long; among the answer choices for Blank (i) only \"a fleet-ing\" matches this meaning, so it is correct. The answer to Blank (ii) must be an umbrellaterm for things listed in the second part of the sentence as defeaters of boredom:\"screen triumphs,\" \"interesting books,\" \"heroic exploits.\" The answer choice that bestmatches this meaning is \"real achievement,\" so it is correct. \"Competing attraction\" alsoseems a plausible choice for Blank (ii), but it is incorrect because the sentence does notmention competition between attractions.Thus the correct answer is a fleeting (Choice A) and real achievement (Choice F).",
+        "page_num": 36
+    }, {
+        "questionNumber": 5,
+        "questionText": "At their best, (i)         book reviews are written in defense of value and in thetacit hope that the author, having had his or her (ii)       pointed out, mightsecretly agree that the book could be improved.Blank (i)                         Blank (ii)",
+        "difficulty": "Hard",
+        "answerOptions": ["abstruse                         D strengths ", "adverse                          E transgressions", "hortatory                        F assumptions"],
+        "correctAnswer": -1,
+        "explanationText": "",
+        "page_num": 36
+    }, {
+        "questionNumber": 6,
+        "questionText": "7Question Type 2: Text CompletionExplanationThe second part of the sentence talks about the author agreeing that the book can beimproved after the things named by Blank (ii) are pointed out; therefore, the answer toBlank (ii) must denote something negative whose presence calls for improvement. Theonly answer choice for Blank (ii) that is negative in meaning is \"transgressions,\" so it iscorrect. Book reviews that point out the author's transgressions are negative in nature, sothe answer to Blank (i) must be negative in meaning; the only answer choice that meetsthis condition is \"adverse,\" so it is correct.Thus the correct answer is adverse (Choice B) and transgressions (Choice E).",
+        "difficulty": "Hard",
+        "answerOptions": [],
+        "correctAnswer": -1,
+        "explanationText": "",
+        "page_num": 36
+    }, {
+        "questionNumber": 6,
+        "questionText": "The gaps in existing accounts of the playwright's life are not (i)  , sincemuch of the documentary evidence on which historians have relied is (ii)                  .Blank (i)          Blank (ii)",
+        "difficulty": "Hard",
+        "answerOptions": ["trifling          D credible ", "obvious           E extant", "C implicit          F incomplete"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence focuses on the relationship between the gaps in existing accounts of a lifeand the evidence used to produce those accounts. Since \"gaps\" implies a concern withcompleteness, the characterization of that evidence that makes the most sense forBlank (ii) is \"incomplete.\" The other choices, \"credible\" or \"extant,\" could explain the accu-racy or verifiability of the accounts in question but nothing about the gaps themselves.Once it is determined that \"incomplete\" is the best choice for characterizing the evidence,it follows that the gaps in the accounts based on that evidence would likely be consider-able, so the opposite of considerable, \"trifling,\" is the correct answer for Blank (i).Thus the correct answer is trifling (Choice A) and incomplete (Choice F).",
+        "page_num": 36
+    }, {
+        "questionNumber": 7,
+        "questionText": "That today's students of American culture tend to (i)  classical music isunderstandable. In our own time, America's musical high culture has degeneratedinto a formulaic entertainment divorced from the contemporary moment. Thus, tomiss out on what our orchestras are up to is not to (ii)               much. In the lateGilded Age, however, music was widely esteemed as the \"queen of the arts.\"Classical music was in its American heyday, (iii)         the culture at large.Blank (i)          Blank (ii)                              Blank (iii)",
+        "difficulty": "Hard",
+        "answerOptions": ["promote           D sacrifice                           G antagonistic toward ", "reinterpret       E appreciate                          H generally rejected by", "ignore            F malign                              I centrally embedded in"],
+        "correctAnswer": -1,
+        "explanationText": "The \"however\" of the next-to-last sentence indicates that the author's characterization of therelationship between classical music and popular culture during the Gilded Age contrastswith the current state of affairs. Since music was widely esteemed during the Gilded Age, itfollows that it is viewed more negatively, or disregarded, during the current era. Of thechoices for Blank (i), \"ignore\" is the only choice that conveys this sentiment; \"promote\"connotes the opposite, while \"reinterpret\" suggests a different sort of positive engagementwith classical music that is otherwise unmentioned in the passage. The author characterizes77Question Type 2: Text Completionthe current disconnection between music and culture as understandable, and uses pejorativelanguage (\"degenerated,\" \"formulaic\") to describe current classical music. Of the threechoices for Blank (ii), \"sacrifice\" best conveys this dismissive attitude; \"appreciate\" wouldconvey that those who forego orchestral concerts are indeed missing something worthwhile,while \"malign\" overstates the presumed level of feeling and activity of one who simply doesnot attend concerts. Since the lack of a connection between culture and classical music mustcontrast with the relationship during the Gilded Age, the answer to Blank (iii) is \"centrallyembedded in.\" Of the other two choices, \"generally rejected by\" would provide no contrast,while \"antagonistic toward\" suggests a relationship that would not explain why music was sowidely esteemed.Thus the correct answer is ignore (Choice C), sacrifice (Choice D), and centrallyembedded in (Choice I).",
+        "page_num": 36
+    }, {
+        "questionNumber": 8,
+        "questionText": "The serious study of popular culture by intellectuals is regularly credited withhaving rendered obsolete a once-dominant view that popular culture is inherentlyinferior to high art. Yet this alteration of attitudes may be somewhat (i)           .Although it is now academically respectable to analyze popular culture, the factthat many intellectuals feel compelled to rationalize their own (ii)        actionmovies or mass-market fiction reveals, perhaps unwittingly, their continued(iii)                         the old hierarchy of high and low culture.Blank (i)                    Blank (ii)                                      Blank (iii)",
+        "difficulty": "Hard",
+        "answerOptions": ["counterproductive           D penchant for                              G aversion to ", "underappreciated            E distaste for                              H investment in", "overstated                  F indifference to                           I misunderstanding of"],
+        "correctAnswer": -1,
+        "explanationText": "The sentence discusses a purported change in how popular culture and high art arerelatively valued; the author is scrutinizing the notion that the academic study of theformer has significantly raised its once lowly status. In the last sentence, Blank (iii) ispreceded by the word \"continued,\" indicating that something about intellectuals' view ofthe hierarchy of culture has remained unchanged. Since the author states in the firstsentence that this hierarchy was once dominant, \"investment in\" the hierarchy would in-dicate that sense of continuity. Neither of the other two options is supported by the pas-sage because there is no indication the author believes that intellectuals have along-held aversion to or misunderstanding of that hierarchy. The \"although\" that beginsthe last sentence indicates that the phrase completed by Blank (ii) will contrast therespectability of analyses of popular culture with something that nonetheless reveals acontinued allegiance to the hierarchy. A need to explain away a \"distaste for\" or an\"indifference to\" action movies or pulp fiction would not indicate any such allegiance,so those choices must be incorrect. However, a need to justify one's penchant or likingfor popular culture would indicate an adherence to the high-low culture hierarchy. Thus\"penchant for\" is the correct choice for Blank (ii). Finally, since the author is suggestingthat the hierarchy given to high and low culture is not obsolete as some claim, it followsthat the shift in attitudes is exaggerated; thus, the correct answer to Blank (i) is\"overstated.\" \"Underappreciated\" implies the opposite, and \"counterproductive\" implies ajudgment about the value of the hierarchy, whereas the passage is primarily concernedwith its existence.Thus the correct answer is overstated (Choice C), penchant for (Choice D), andinvestment in (Choice H).78",
+        "page_num": 36
+    }]
+}
